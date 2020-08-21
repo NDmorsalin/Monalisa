@@ -1,0 +1,22 @@
+{
+  "name": "Monalisa",
+  "authors": [
+    "NDmorsalin <morsalin056@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "owl.carousel": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip"
+  }
+}
